@@ -1,4 +1,4 @@
 get the user data.....
 submit the user name
 
-creating a avtar for user in feature branch
+creating a avtar for user in feature branchgitq
